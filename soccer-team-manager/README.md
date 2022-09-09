@@ -44,3 +44,8 @@ Dentro do _.gitignore_ teremos:
 
     node_modules
 
+#### Nodemon
+
+Usando o servidor com nodemon, toda vez que você salvar algum arquivo, ele reinicia sua aplicação.
+
+`npm i nodemon -D`
